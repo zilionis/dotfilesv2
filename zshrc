@@ -13,7 +13,7 @@ export ZSH=$HOME/.oh-my-zsh
 
 DISABLE_AUTO_UPDATE="true"
 
-ZSH_THEME="robbyrussell"
+ZSH_THEME="powerlevel9k/powerlevel9k"
 ZSH_CUSTOM=/Users/vaidas/.dot.vaidas/ohmyzsh.custom
 
 plugins=(git)
